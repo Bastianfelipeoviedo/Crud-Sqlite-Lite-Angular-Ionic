@@ -1,0 +1,7 @@
+{
+  "name": "ionic-angular-sqlite-starter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
